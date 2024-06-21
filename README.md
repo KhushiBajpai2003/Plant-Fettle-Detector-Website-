@@ -8,7 +8,7 @@ This project, "Plant Fettle Detector," aims to detect diseases and assess the qu
 - [shrutiijainn11](https://github.com/shrutiijainn11)
 
 ## Features
-- Disease detection for apples and oranges.
+- Disease detection for apples, orange, etc.
 - Quality assessment based on visual inspection.
 - Web-based interface for easy interaction.
 
